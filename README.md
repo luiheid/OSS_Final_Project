@@ -29,3 +29,6 @@ Also, we can write the description of that goal. You can use it to write down th
 
 ## Where can I get more help, if I need it?
 if you need any help, please constact 21900648@handong.edu
+
+## video link
+https://youtu.be/shxIKEltGzU
